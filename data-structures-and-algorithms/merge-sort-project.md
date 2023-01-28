@@ -17,3 +17,5 @@ ___Big-O gösterimini yazınız.___
 6.adım => [8, 11, 12, 16, 21, 22] <br>
 
 O(n * log n)
+
+https://app.patika.dev/erengaygusuz
