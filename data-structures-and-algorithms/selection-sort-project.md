@@ -45,3 +45,5 @@ ___[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazın
 3.adım => [2,3,4,8,7,9,5,15,6] (5 ile 4 değişti)
 
 4.adım => [2,3,4,5,7,9,8,15,6] (8 ile 5 değişti)
+
+https://app.patika.dev/erengaygusuz
